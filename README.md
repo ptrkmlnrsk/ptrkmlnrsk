@@ -6,7 +6,7 @@ I build data processing pipelines for geo and non-geo data :earth_africa:
 Currently I'm working on
 
 - Satellite data processing (Sentinel/Landsat) :satellite:
-- Data extraction and validation pipelines (PDF & Excel comparator → structured data)
+- Data extraction and validation pipelines
 - Data pipelines for geospatial data
 
 <!--
