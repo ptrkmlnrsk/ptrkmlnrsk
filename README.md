@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm a GIS specialist diving deeper into data engineering, especially geospatial and remote sensing data engineering.
+I'm a Junior Software Developer with GIS background, diving deeper into data engineering, especially geospatial and remote sensing data engineering.
 I build data processing pipelines for geo and non-geo data :earth_africa:
 
 Currently I'm working on
